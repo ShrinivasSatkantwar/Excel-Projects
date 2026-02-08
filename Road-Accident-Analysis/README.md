@@ -120,5 +120,4 @@ Seasonal road safety campaigns can be planned around high-risk months.
 
 ## 📸 Dashboard Preview
  
-![Road Accident Dashboard](<img width="1693" height="841" alt="image" src="https://github.com/user-attachments/assets/62840ffd-44d6-4a3d-a66c-9750c432d779" />
-)
+![Dashboard](Road-Accident-Analysis/dashboard.png)
