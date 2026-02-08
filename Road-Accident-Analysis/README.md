@@ -1,4 +1,11 @@
 # 🚧 Road Accident Analysis Dashboard
+## 📊 Interactive Dashboard
+Due to GitHub file size limitations, the Excel dashboard is hosted on Google Drive.
+
+🔗 Download Dashboard (Excel): [Link](https://docs.google.com/spreadsheets/d/1oABNMyKxMLqUwdwUIAoW5agEd6z0O99b/edit?usp=sharing&ouid=111876046128601189822&rtpof=true&sd=true)
+🔗 Download Dataset (Excel): [Link](https://drive.google.com/file/d/14VrD8BdpPICQAS3z-FsMBUS_y4HK5k9b/view?usp=sharing)
+
+⚠️ Note: Please download the file to explore slicers and interactivity.
 
 ## 📊 Project Overview
 This project presents an **interactive Road Accident Analysis Dashboard** built using **Microsoft Excel** (Pivot Tables, Pivot Charts, and Slicers). The dashboard analyzes **896,568 road accident casualties** across multiple dimensions such as severity, vehicle type, road type, weather conditions, lighting, location (urban/rural), and time trends (2019–2022).
