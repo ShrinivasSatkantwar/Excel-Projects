@@ -87,8 +87,8 @@ This project highlights that strong data analysis is not about finding one best 
 ---
 
 ## 📎 Project Assets
-- 📊 Final Slide (Recommendation) [Link](Campaign Performance Analysis/BCG_Insights_Slide.pptx)
-- 📁 Dataset (if shareable) [Link](Campaign Performance Analysis/Campaign_Data_Week1.xlsx)
+- 📊 Final Slide (Recommendation) [Link](https://github.com/ShrinivasSatkantwar/Excel-Projects/blob/main/Campaign%20Performance%20Analysis/BCG_Insights_Slide.pptx)
+- 📁 Dataset (if shareable) [Link](https://github.com/ShrinivasSatkantwar/Excel-Projects/blob/main/Campaign%20Performance%20Analysis/Campaign_Data_Week1.xlsx)
 
 ---
 
